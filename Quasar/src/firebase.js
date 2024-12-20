@@ -3,7 +3,7 @@ import { getAnalytics } from "firebase/analytics";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCfFKSmz9zmbeETiXoTjIaYJL9GJ4r0uy0",
+  apiKey: "Enter your key here",
   authDomain: "testing-bdd5f.firebaseapp.com",
   databaseURL: "https://testing-bdd5f-default-rtdb.firebaseio.com",
   projectId: "testing-bdd5f",
