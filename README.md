@@ -46,10 +46,73 @@ npm run dev
 
 Access the application at http://localhost:3000.
 
+## Flowchart
+
+   <p align="center">
+  <img src="FocusRoom.png" alt="Example Image" width="75%" height="75%"/>
+</p>  
+
+---
+
+## Results
+## 1. Index Page
+
+<p align="center">
+  <img src="Results/index.png" alt="Index" width="75%" height="75%"/>
+</p>  
+
+---
+
+## 2. Login Page
+
+<p align="center">
+  <img src="Results/login.png" alt="Index" width="75%" height="75%"/>
+</p>  
+
+---
+
+## 3. Widgets
+
+<p align="center">
+  <img src="Results/widget.png" alt="Index" width="75%" height="75%"/>
+</p>  
+
+---
+
+<p align="center">
+  <img src="Results/widget1.png" alt="Index" width="75%" height="75%"/>
+</p>  
+
+---
+
+## 4. Meet Functionality
+
+<p align="center">
+  <img src="Results/meet.png" alt="Index" width="75%" height="75%"/>
+</p>  
+
+---
+
+<p align="center">
+  <img src="Results/meet1.png" alt="Meet1" width="75%" height="75%"/>
+</p>  
+
+---
+
+## 5. AI prompt
+
+<p align="center">
+  <img src="Results/API.png" alt="Meet1" width="75%" height="75%"/>
+</p>  
+
+---
+
 ## Future Enhancements
 - Real-Time Collaboration: Audio/video conferencing and in-room chat for seamless teamwork.
 - Advanced NLP: Enhanced AI prompt capabilities and multilingual support.
 - Analytics: Usage tracking for insights into user behavior and feature optimization.
+
+---
 
 ## Contributors
 
