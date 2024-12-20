@@ -7,7 +7,7 @@ import InputBox from "./InputBox";
 import "../assets/ChatWindow.css"; // For custom styles
 import logo from "../assets/img/gemini-small.png";
 
-const API_KEY = "AIzaSyAAO4E-Bqpu4Nr8UHwnmn7bAVxK6odumEE";
+const API_KEY = "";
 const genAI = new GoogleGenerativeAI(API_KEY);
 const model = genAI.getGenerativeModel({ model: "gemini-pro" });
 
