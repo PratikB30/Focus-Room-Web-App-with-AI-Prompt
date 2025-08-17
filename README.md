@@ -113,8 +113,3 @@ Access the application at http://localhost:3000.
 - Analytics: Usage tracking for insights into user behavior and feature optimization.
 
 ---
-
-## Contributors
-
-- Pratik Bhat
-- Harsh Deshmukh
