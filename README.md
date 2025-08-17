@@ -1,5 +1,5 @@
-# Focus Room Web Application with AI
-The Focus Room Web App with AI is a productivity platform designed to optimize workflow and task management. It integrates a range of tools, including a Pomodoro timer, calendar, to-do lists, motivational quotes, and sticky notes, alongside an AI-powered "Focus Room" feature for collaborative and distraction-free work sessions.
+# Quasar
+Quasar is a productivity platform designed to optimize workflow and task management. It integrates a range of tools, including a Pomodoro timer, calendar, to-do lists, motivational quotes, and sticky notes, alongside an AI-powered "Focus Room" feature for collaborative and distraction-free work sessions.
 
 ## Features
 - Pomodoro Timer: Enhance productivity with structured work intervals and breaks.
